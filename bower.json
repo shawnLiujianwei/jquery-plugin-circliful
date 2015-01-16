@@ -5,6 +5,10 @@
   "authors": [
     "Patric Gutersohn <pguso@gmx.de>"
   ],
+  "main": [
+    "js/jquery.circliful.min.js",
+    "css/jquery.circliful.css"
+  ],
   "license": "MIT",
   "dependencies": {
     "jquery": ">= 1.5.0"
